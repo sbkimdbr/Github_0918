@@ -44,6 +44,21 @@ ex)$ git clone https://github.com/sbkimdbr/Github_0918.git
 
 
 
+git config 는 user 폴더에 내 계정이 저장되어 있다.
+
+git hub 에 저장된 내용
 
 
 
+
+
+#### branch
+
+- 독립적인 작업공간
+
+```bash
+$ git checkout master
+$ git checkout master
+```
+
+https://nvie.com/posts/a-successful-git-branching-model/
